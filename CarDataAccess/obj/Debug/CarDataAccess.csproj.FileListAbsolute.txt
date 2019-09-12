@@ -1,0 +1,12 @@
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\bin\Debug\CarDataAccess.dll.config
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\bin\Debug\CarDataAccess.dll
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\bin\Debug\CarDataAccess.pdb
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\bin\Debug\EntityFramework.dll
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\bin\Debug\EntityFramework.xml
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\obj\Debug\CarDataAccess.csprojAssemblyReference.cache
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\obj\Debug\CarDataAccess.csproj.CoreCompileInputs.cache
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\obj\Debug\CarDataAccess.csproj.CopyComplete
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\obj\Debug\CarDataAccess.dll
+E:\Training\WebAPI\CarsAPI2ndCommit\CarDataAccess\obj\Debug\CarDataAccess.pdb
